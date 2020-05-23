@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.2" class="java.beans.XMLDecoder">
+ <object class="ua.testing.model.TravelInsurance">
+  <void property="activeRest">
+   <boolean>true</boolean>
+  </void>
+  <void property="deductible">
+   <long>5</long>
+  </void>
+  <void property="durationOfContract">
+   <int>5</int>
+  </void>
+  <void property="employment">
+   <boolean>true</boolean>
+  </void>
+  <void property="endDate">
+   <string>02.06.21</string>
+  </void>
+  <void property="insuranceAmount">
+   <long>5</long>
+  </void>
+  <void property="insurancePayment">
+   <long>555</long>
+  </void>
+  <void property="insuranceRisk">
+   <float>55.0</float>
+  </void>
+  <void property="numberOfPersons">
+   <int>5</int>
+  </void>
+  <void property="sport">
+   <boolean>true</boolean>
+  </void>
+  <void property="startDate">
+   <string>02.12.20</string>
+  </void>
+  <void property="travel">
+   <boolean>true</boolean>
+  </void>
+ </object>
+</java>
